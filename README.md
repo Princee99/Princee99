@@ -58,10 +58,3 @@ I'm a curious and passionate learner who loves diving into new technologies and 
 
 ---
 
-## 📫 Connect with Me
-
-- 📧 Email: patelprincee9127@gmail.com  
-- 🌍 [GitHub](https://github.com/Princee99)  
-- 🔗 [LinkedIn](https://linkedin.com/in/princee11)
-
----
