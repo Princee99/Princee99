@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Princee Patel
 
-🎓 IT Engineering Student | 💻 Flutter Developer | 🤖 AI/ML Explorer
+🎓 IT Engineering Student | 💻 App & Web Developer | 🤖 AI/ML Explorer
 
 ---
 
